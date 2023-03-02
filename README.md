@@ -3,9 +3,8 @@
 > Made by **[proudparrot2](https://github.com/proudparrot2)**
 >
 > ⚠️ This module is in beta and may break. Please report all bugs to our support server.
-
-
-🛈 If you haven't used Pylon Modules before, or are confused by what's in this README, please read our [guide repository](https://github.com/pylonmodules/guide)
+> 
+> 🛈 If you haven't used Pylon Modules before, or are confused by what's in this README, please read our [guide repository](https://github.com/pylonmodules/guide)
 
 
 ## Installation
