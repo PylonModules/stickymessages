@@ -2,7 +2,10 @@
 
 > Made by **[proudparrot2](https://github.com/proudparrot2)**
 >
-> If you haven't used Pylon Modules before, or are confused by what's in this README, please read our [guide repository](https://github.com/pylonmodules/guide)
+> ⚠️ This module is in beta and may break. Please report all bugs to our support server.
+
+
+🛈 If you haven't used Pylon Modules before, or are confused by what's in this README, please read our [guide repository](https://github.com/pylonmodules/guide)
 
 
 ## Installation
@@ -15,7 +18,7 @@ There is no configuration for this module.
 import 'modules/stickymessages' 
  ```
 
- 
+
  When you save (CTRL/CMD + S), the module should be enabled!
  
 If you need help with setting up or using this module, please join our [support server](https://discord.gg/85Jmh74ePB)!
